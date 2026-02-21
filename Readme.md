@@ -1,4 +1,4 @@
-# A guide for lazy ambitious people.  Build with the collaboration of experience & AI
+# A guide for lazy ambitious people.  Built with the collaboration of experience & AI
 
 ## DSA
 #### This isn't another DSA cheat sheet. Most guides tell you what to learn — this one tells you how to think. 
