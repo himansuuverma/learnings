@@ -190,7 +190,7 @@ You don't need to prove theorems. You need to **estimate** whether your solution
 | 1,000,000 | O(n log n) needed | Sort + binary search, or heap |
 | 100,000,000 | O(n) needed | Single pass — two pointers, sliding window |
 
-> 📺 Watch: [Big O Notation — Abdul Bari](https://www.youtube.com/watch?v=V42FBiQLDm8) (16 min, best explanation on YouTube)
+> 📺 Watch: [Big O Notation — Abdul Bari](https://www.youtube.com/watch?v=9TlHvipP5yA&list=PLKEhaiVaGhXIBTDi4EKKQT7lomRtFqFSB)
 > 🔗 Read: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 **That's it.** You now know enough complexity analysis. Move on.
