@@ -1,6 +1,6 @@
 # A guide for lazy ambitious people.  Built with the collaboration of experience & AI
 
-## DSA => [https://github.com/himansuuverma/learnings/tree/main/dsa](https://github.com/himansuuverma/learnings/tree/main/dsa)
+## [DSA](https://github.com/himansuuverma/learnings/blob/main/dsa/dsa_guide.md)
 #### This isn't another DSA cheat sheet. Most guides tell you what to learn — this one tells you how to think. 
 > Built from 5+ years of FAANG interview data, cognitive 
 science research on how expert programmers actually solve problems, and the 
