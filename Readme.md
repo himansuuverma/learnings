@@ -13,3 +13,6 @@ overcome the cognitive traps that silently block most people from ever getting
 good at DSA. No fluff, no academic theory, no "solve 500 problems and pray." 
 Just the shortest path from "I can build real products but DSA bores me" to "no 
 interviewer at any top company can reject me."
+
+## If you don't have time and want to do dsa patterns faster
+### [DSA Fast Track](https://github.com/himansuuverma/learnings/blob/main/dsa/fast-track.md)
