@@ -16,3 +16,6 @@ interviewer at any top company can reject me."
 
 ## If you don't have time and want to do dsa patterns faster
 ### [DSA Fast Track](https://github.com/himansuuverma/learnings/blob/main/dsa/fast-track.md)
+
+## If you are preparing for SDE2 rounds - LLD + HLD
+### [LLD + HLD covered 100%](https://github.com/himansuuverma/learnings/blob/main/system_design/LLD%2BHLD.md)
