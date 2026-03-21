@@ -1,6 +1,6 @@
 # SDE2 System Design Interview — The Only Guide You Need
 
-> **Target:** SDE2 (Amazon L5) / Google L4 / Meta E4 at Amazon, Google, Meta, Microsoft, Apple, Uber, Netflix, Anthropic, OpenAI
+> **Target:** SDE2 (Amazon L5) / Google L4 / Meta E4, Microsoft, Apple, Uber, Netflix, Anthropic, OpenAI
 > **Timeline:** 4–8 weeks of focused preparation
 > **Last Updated:** March 2026
 
